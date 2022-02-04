@@ -14,7 +14,7 @@ const Main = (props) => {
   const [cardTwo, setCardTwo] = useState(null);
   useEffect(() => {
     if (cardOne && cardTwo) {
-      if (cardOne.id === cardTwo.id) {
+      if (cardOne.id === cardTwo.id && cardOne.n !== cardTwo.n) {
         setData((card) => {
           return card.map((item) => {
             if (item.id === cardOne.id) {
