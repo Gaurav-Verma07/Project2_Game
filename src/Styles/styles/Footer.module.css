@@ -42,6 +42,9 @@ a:hover i {
 }
 
 @media (max-width: 37.5em) {
+  .footer {
+    margin-top: 15rem;
+  }
   .text {
     width: 80%;
   }
