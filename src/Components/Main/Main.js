@@ -56,8 +56,9 @@ const Main = (props) => {
     }
   }
   if (flag === 0) {
-    console.log("Game end");
-    alert("Congratulations... You Won... Start a new game...Have fun!!!");
+    setTimeout(() => {
+      alert("Congratulations... You Won... Start a new game...Have fun!!!");
+    }, 1100);
   }
 
   const filterChoice = () => {

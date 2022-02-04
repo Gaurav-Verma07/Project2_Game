@@ -15,6 +15,11 @@
   font-size: 2rem;
   text-align: center;
 }
+
+p a {
+  color: blue;
+}
+
 .footer p span {
   font-weight: 500;
 }

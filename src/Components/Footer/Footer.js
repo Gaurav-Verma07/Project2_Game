@@ -8,6 +8,9 @@ const Footer = () => {
         </p>
         <p>Made with React.js</p>
         <p>
+          <a href="https://github.com/lucky-web-dev/Project2_Game">Code link</a>
+        </p>
+        <p>
           It's an open source project so feel free to contribute... Let me know
           if you'd like to add some cool features to make this more
           user-friendly.
