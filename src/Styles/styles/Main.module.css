@@ -14,3 +14,8 @@
     width: 80rem;
   }
 }
+@media (max-width: 23.125em) {
+  .main {
+    width: 85%;
+  }
+}

@@ -15,6 +15,10 @@ export const Container = styled.div`
     width: 17rem;
     height: 17rem;
   }
+  @media (max-width: 23.125em) {
+    width: 13rem;
+    height: 13rem;
+  }
 `;
 
 //transition: all 0.5s ease;
