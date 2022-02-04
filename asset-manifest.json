@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Project2_Game/static/css/main.008cb096.css",
+    "main.js": "/Project2_Game/static/js/main.06aa5a15.js",
+    "static/js/787.9c804d05.chunk.js": "/Project2_Game/static/js/787.9c804d05.chunk.js",
+    "static/media/img0.png": "/Project2_Game/static/media/img0.79c3cc73329a7efcbc7e.png",
+    "static/media/img5.png": "/Project2_Game/static/media/img5.ad882bf0f6733a4c6614.png",
+    "static/media/img4.png": "/Project2_Game/static/media/img4.722fc4b86648d4276db1.png",
+    "static/media/img8.png": "/Project2_Game/static/media/img8.ba0dabfdbe8baeea1fc5.png",
+    "static/media/img3.png": "/Project2_Game/static/media/img3.3b137cfbdc496272f159.png",
+    "static/media/img2.png": "/Project2_Game/static/media/img2.66cfa1e3982e72add386.png",
+    "static/media/img1.png": "/Project2_Game/static/media/img1.cd8cbc30bfb360fb290a.png",
+    "static/media/img7.png": "/Project2_Game/static/media/img7.7985dc400b9d723ba54f.png",
+    "static/media/img6.png": "/Project2_Game/static/media/img6.b3425b755f326ca19e04.png",
+    "index.html": "/Project2_Game/index.html",
+    "main.008cb096.css.map": "/Project2_Game/static/css/main.008cb096.css.map",
+    "main.06aa5a15.js.map": "/Project2_Game/static/js/main.06aa5a15.js.map",
+    "787.9c804d05.chunk.js.map": "/Project2_Game/static/js/787.9c804d05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008cb096.css",
+    "static/js/main.06aa5a15.js"
+  ]
+}
