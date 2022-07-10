@@ -8,7 +8,7 @@ const Footer = () => {
         </p>
         <p>Made with React.js</p>
         <p>
-          <a href="https://github.com/lucky-web-dev/Project2_Game">Code link</a>
+          <a href="https://github.com/Gaurav-Verma07/Project2_Game">Code link</a>
         </p>
         <p>
           It's an open source project so feel free to contribute... Let me know
