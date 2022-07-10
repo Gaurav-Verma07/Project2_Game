@@ -18,7 +18,7 @@ const Footer = () => {
       </div>
       <ul>
         <li>
-          <a href="https://github.com/lucky-web-dev">
+          <a href="https://github.com/Gaurav-Verma07">
             <i className="fab fa-github"></i>
           </a>
         </li>
